@@ -1,5 +1,7 @@
 # Visual Studio 2015 user specific files
 .vs/
+#Marek level
+Content/WinterTown/
 
 # Compiled Object files
 *.slo
